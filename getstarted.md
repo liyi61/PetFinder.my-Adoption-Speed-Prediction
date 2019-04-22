@@ -9,13 +9,18 @@ bigimg: /img/start.jpg
 
 To learn how you can use **Beautiful Jekyll** to create your website in minutes, go to the [Beautiful Jekyll GitHub page](https://github.com/daattali/beautiful-jekyll#readme).
 
-{% include Plot%203-2.html %}
-{% include jupyter-basic_bar.html %}
 
 <div class="get-started-wrap">
   <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
 </div>
 <br/>
+
+<div>
+    <a href="https://plot.ly/~liyi0907/3/?share_key=0hk1dffHYzVGAO0jQodufS" target="_blank" title="Plot 3" style="display: block; text-align: center;"><img src="https://plot.ly/~liyi0907/3.png?share_key=0hk1dffHYzVGAO0jQodufS" alt="Plot 3" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="liyi0907:3" sharekey-plotly="0hk1dffHYzVGAO0jQodufS" src="https://plot.ly/embed.js" async></script>
+</div>
+
+
 
 ## Overview of steps required
 
