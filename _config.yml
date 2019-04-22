@@ -9,13 +9,13 @@
 
 # If you are building a GitHub project page then use these settings:
 # Replace with your project's URL!
-url: "http://kerchner.github.io/beautiful-project"
-baseurl: "/beautiful-project"
+url: "http://liyi61.github.io/PetFinder.my-Adoption-Speed-Prediction"
+baseurl: "/PetFinder.my-Adoption-Speed-Prediction"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My Data Science Project
+title: PetFinder.my Adoption Speed Prediction
 
 # Short description of your site
 description: Here's the description of my porject
@@ -30,8 +30,8 @@ description: Here's the description of my porject
 navbar-links:
   Home: ""
   Resources:
-    - Getting started: "getstarted"
-    - Other sites that use this template: "featured-users"
+    - Data Overview: "getstarted"
+    - EDA: "featured-users"
     - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
   Example pages:
     - Example of a Markdown page: "md-example"
@@ -43,8 +43,8 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Your name goes here
-  email: "youremail@gmail.com"
+  name: Yi Li
+  email: "yli0907@gmail.com"
   facebook: yourfacebook
   github: yourgithub
   twitter: yourtwitter
