@@ -29,7 +29,7 @@ description: Here's the description of my porject
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Resources:
+  Data & EDA:
     - Data Overview: "getstarted"
     - EDA: "featured-users"
     - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
