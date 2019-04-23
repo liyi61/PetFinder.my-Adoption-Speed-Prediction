@@ -2,7 +2,7 @@
 layout: page
 title: Data Overview
 subtitle: 
-bigimg: /img/Screen Shot 2019-04-22 at 4.31.27 PM.png
+bigimg: /img/main4.jpg
 ---
 
 The datasets are provided by Kaggle and the data included text, tabular, and image data. First, Let's look at the preview of the traning data:
