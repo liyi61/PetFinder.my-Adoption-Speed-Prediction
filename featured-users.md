@@ -1,29 +1,17 @@
 ---
 layout: page
-title: Featured users
+title: Exploratory Data Analysis
+bigimg: /img/main5.png
 ---
 
-To my huge surprise, Beautiful Jekyll has been used in over 500 websites in its first 6 months alone! Here is a hand-picked selection of some websites that use Beautiful Jekyll.
+<div class='tableauPlaceholder' id='viz1556059971668' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;pe&#47;pet1&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='pet1&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;pe&#47;pet1&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object> </div>                
+<script type='text/javascript'>var divElement = document.getElementById('viz1556059971668');var vizElement = divElement.getElementsByTagName('object')[0];vizElement.style.width='1000px';vizElement.style.height='1027px'; var scriptElement = document.createElement('script');scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
 
-Want your website featured here? [Contact Dean Attali](http://deanattali.com/aboutme#contact) to let him know about your website.
 
-### Project/company websites
 
-{: .table.table-responsive}
-| Website | Description | Github Repository |
-| :------ |:----------- | ----------------- |
-| [repidemicsconsortium.org/](http://www.repidemicsconsortium.org/) | R Epidemics Consortium |
-| [vaccineimpact.org](https://www.vaccineimpact.org/) | Vaccine Impact Modelling Consortium | [https://github.com/vimc/vimc-website](https://github.com/vimc/vimc-website) |
-| [derekogle.com/fishR](http://derekogle.com/fishR/) | Using R for Fisheries Analyses |
-| [bigdata.juju.solutions](http://bigdata.juju.solutions) | Creating Big Data solutions Juju Solutions |
-| [joecks.github.io/clipboard-actions](http://joecks.github.io/clipboard-actions/) | Clipboard Actions - an Android app |
-| [deanattali.com/shinyjs](http://deanattali.com/shinyjs/) | shinyjs - an R package |
-| [blabel.github.io](http://blabel.github.io) | Library for canonicalising blank node labels in RDF graphs |
-| [reactionic.github.io](http://reactionic.github.io) | Create iOS and Android apps with React and Ionic |
-| [ja2-stracciatella.github.io](http://ja2-stracciatella.github.io) | Jagged Alliance 2 Stracciatella |
-| [ddocent.com](http://ddocent.com/) | RADSeq Bioinformatics and Beyond |
-| [guitarlessons.org](https://www.guitarlessons.org/) | Free online guitar lessons for all |
-| [terremotocentroitalia.info](https://www.terremotocentroitalia.info/) | Information about the 2016 Italy earthquake |
+
+
+
 
 ### Personal websites
 
