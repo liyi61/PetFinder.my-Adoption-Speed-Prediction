@@ -41,13 +41,16 @@ __This dataset has 14993 rows and 25 columns__
 * __Description__ - Profile write-up for this pet. The primary language used is English, with some in Malay or Chinese.
 
 
-### 1. Fork the Beautiful Jekyll repository 
+## Adoption Speed
 
-Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking the Fork button on the top right corner in GitHub.
+Contestants are required to predict this value. The value is determined by how quickly, if at all, a pet is adopted. The values are determined in the following way: 
 
-### 2. Rename the repository to `yourusername.github.io`
+0 - Pet was adopted on the same day as it was listed. 
+1 - Pet was adopted between 1 and 7 days (1st week) after being listed. 
+2 - Pet was adopted between 8 and 30 days (1st month) after being listed. 
+3 - Pet was adopted between 31 and 90 days (2nd & 3rd month) after being listed. 
+4 - No adoption after 100 days of being listed. (There are no pets in this dataset that waited between 90 and 100 days).
 
-This will create a GitHub User page ready with the **Beautiful Jekyll** template that will be available at http://yourusername.github.io (sometimes it takes a few minutes).
 
 ### 3. Customize settings
 
