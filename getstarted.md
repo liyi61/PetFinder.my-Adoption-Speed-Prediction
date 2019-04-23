@@ -7,6 +7,7 @@ bigimg: /img/main4.jpg
 
 The datasets are provided by Kaggle and the data included text, tabular, and image data. First, Let's look at the preview of the traning data:
 
+__This dataset has 14993 rows and 25 columns__
 
 ![preview](/img/Screen Shot 2019-04-22 at 3.46.49 AM.png)
 
