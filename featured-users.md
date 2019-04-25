@@ -11,7 +11,7 @@ bigimg: /img/main5.png
 <br>
 <br>
 <br>
-### The Impact of Pet Type for Adoption Speed
+## The Impact of Pet Type for Adoption Speed
 
 ![barchart](/img/Screen Shot 2019-04-25 at 4.38.22 PM.png)
 
