@@ -8,8 +8,9 @@ bigimg: /img/main5.png
 <script type='text/javascript'>var divElement = document.getElementById('viz1556060748372');var vizElement = divElement.getElementsByTagName('object')[0];vizElement.style.width='1000px';vizElement.style.height='1027px';                    var scriptElement = document.createElement('script');scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 
-
-
+<br>
+<br>
+<br>
 ### The Impact of Pet Type for Adoption Speed
 
 ![barchart](/img/Screen Shot 2019-04-25 at 4.38.22 PM.png)
