@@ -15,8 +15,8 @@ bigimg: /img/main5.png
 
 ![barchart](/img/Screen Shot 2019-04-25 at 4.38.22 PM.png)
 
-According to the previous graph, the base rate of pets with Adoption speed 0 is 410 / 14993 = 0.027;  
-There are 6861 cats in train dataset and 240 of them have Adoption Speed 0. So the rate is 240 / 6861 = 0.035;  
+According to the previous graph, the base rate of pets with Adoption speed 0 is 410 / 14993 = __0.027__;  
+There are 6861 cats in train dataset and 240 of them have Adoption Speed 0. So the rate is 240 / 6861 = __0.035__;  
 Above diagram shows the differences between the general adoption rate and type-specified adoption rate.  
 
 ### Personal websites
