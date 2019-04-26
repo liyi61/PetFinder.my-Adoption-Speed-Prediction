@@ -10,7 +10,6 @@ bigimg: /img/main5.png
 
 <br>
 <br>
-<br>
 ## The Impact of Pet Type for Adoption Speed
 
 ![barchart](/img/Screen Shot 2019-04-25 at 4.38.22 PM.png)
@@ -18,6 +17,19 @@ bigimg: /img/main5.png
 According to the previous graph, the base rate of pets with Adoption speed 0 is 410 / 14993 = __0.027__;  
 There are 6861 cats in train dataset and 240 of them have Adoption Speed 0. So the rate is 240 / 6861 = __0.035__;  
 Above diagram shows the differences between the general adoption rate and type-specified adoption rate. We can see that cats are more likely to be adopted early than dogs. On the other hand more dogs are adopted at slower speed.  
+
+<br>
+## About Pet Names
+
+__Rate of unnamed pets in train data: 8.4173%. __  
+__Rate of unnamed pets in test data: 7.6748%. __  
+
+![wordcloud](/img/Screen Shot 2019-04-25 at 7.50.40 PM.png)
+
+
+
+
+
 
 ### Personal websites
 
