@@ -21,8 +21,8 @@ Above diagram shows the differences between the general adoption rate and type-s
 <br>
 ## About Pet Names
 
-__Rate of unnamed pets in train data: 8.4173%. __  
-__Rate of unnamed pets in test data: 7.6748%. __  
+__Rate of unnamed pets in train data: 8.4173%.__   
+__Rate of unnamed pets in test data: 7.6748%.__  
 
 ![wordcloud](/img/Screen Shot 2019-04-25 at 7.50.40 PM.png)
 
