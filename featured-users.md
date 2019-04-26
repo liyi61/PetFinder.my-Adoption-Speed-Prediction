@@ -39,6 +39,16 @@ This is a graph showing the distribution of pets' age. Most of the pets are stil
 <script type='text/javascript'>var divElement = document.getElementById('viz1556249115180');var vizElement = divElement.getElementsByTagName('object')[0];vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 
+![age](/img/age.png)
+
+
+## Adoption Speed Trend by Age
+<div>
+    <a href="https://plot.ly/~liyi0907/3/?share_key=0hk1dffHYzVGAO0jQodufS" target="_blank" title="Plot 3" style="display: block; text-align: center;"><img src="https://plot.ly/~liyi0907/3.png?share_key=0hk1dffHYzVGAO0jQodufS" alt="Plot 3" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="liyi0907:3" sharekey-plotly="0hk1dffHYzVGAO0jQodufS" src="https://plot.ly/embed.js" async></script>
+</div>
+
+
 
 ### Personal websites
 
