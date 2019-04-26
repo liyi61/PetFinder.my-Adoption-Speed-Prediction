@@ -46,7 +46,9 @@ This is a graph showing the distribution of pets' age. Most of the pets are stil
 
 ## Adoption Speed Trend by Age
 
-We can see that young pets are adopted relatively fast and the peek is at two-month old. 
+We can see that young pets are adopted relatively fast and the peek is at two-month old.  
+
+<br>
 
 <div>
     <a href="https://plot.ly/~liyi0907/3/?share_key=0hk1dffHYzVGAO0jQodufS" target="_blank" title="Plot 3" style="display: block; text-align: center;"><img src="https://plot.ly/~liyi0907/3.png?share_key=0hk1dffHYzVGAO0jQodufS" alt="Plot 3" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
