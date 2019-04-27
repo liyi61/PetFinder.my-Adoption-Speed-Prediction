@@ -82,7 +82,7 @@ The breed information looks a bit messy and confusing. These numbers exist under
 
 The assumption is wrong because a lot of people put "Mixed Breed" for breed1 and left breed2 blank. And all cats starting with "Domestic" seem not pure breed cats. After specifying all theses "Domestic" cats and mixed breed dogs as non-pure breed pets, it comes to the conclusion that pure breed pets are doing better regarding the adoption speed.  
 
-、、、python
+```python
 for i, row in all_data[all_data['Breed1_name'].str.contains('air')].iterrows():
     if 'Short' in row['Breed1_name'] and row['FurLength'] == 1:
         pass
@@ -93,7 +93,7 @@ for i, row in all_data[all_data['Breed1_name'].str.contains('air')].iterrows():
     else:
         c += 1
         strange_pets.append((row['PetID'], row['Breed1_name'], row['FurLength']))
-、、、
+```
 
 Another confusing feature is fur-length. There are 964 pets whose breed and fur length don't match.   
 Here are some examples:  
