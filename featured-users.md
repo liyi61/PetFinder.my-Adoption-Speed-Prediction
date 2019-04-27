@@ -140,11 +140,23 @@ To my surprise, pets that were not vaccinated get adopted quicker. After thinkin
 When looking Sterilized, this is more like a personal choice to make and not a prerequisite to keep your pet healthy. Again, "No" scores better regarding adoption speed. I believe it is the same reason which can be explained by young pets not having had the treatment yet anyway.
 
 
+## Sentiment Analysis
+
+Kaggle have run each pet profile's description through Google's Natural Language API, providing analysis on sentiment and key entities. There are some descriptions that the API could not analyze. As such, there are fewer sentiment files than there are rows in the dataset.
+
+![sentiment](/img/Screen Shot 2019-04-27 at 5.17.24 PM.png)
+
+* score of the sentiment ranges between -1.0 (negative) and 1.0 (positive) and corresponds to the overall emotional leaning of the text.
+* magnitude indicates the overall strength of emotion (both positive and negative) within the given text, between 0.0 and +inf. Unlike score, magnitude is not normalized; each expression of emotion within the text (both positive and negative) contributes to the text's magnitude (so longer text blocks may have greater magnitudes).
+
+In this case, it seems that the lower the magnitude of score, the faster pets are adopted.
 
 
+## Description Length
 
+Interestingly pets with short descriptions are adopted quickly. Another thing visible is that the slow adopting categories seem to have some more outliers with very long descriptions. 
 
-
+![deslenght](/img/Screen Shot 2019-04-27 at 5.23.19 PM.png)
 
 
 
