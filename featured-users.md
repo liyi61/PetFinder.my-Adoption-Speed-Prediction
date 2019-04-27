@@ -100,7 +100,7 @@ Here are some examples:
 
 ![furlength](/img/Screen Shot 2019-04-26 at 11.25.27 PM.png)
 
-
+Sometiems breed is more accurate, sometime fur length is. One thing could be done is creatign a new feautre about this mismatch situation. 
 
 
 ## The Impact of Gender on Adoption Speed
