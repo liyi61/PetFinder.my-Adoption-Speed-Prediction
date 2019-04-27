@@ -29,9 +29,9 @@ description: Here's the description of my porject
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Data & EDA:
+  EDA & Feature Engineering:
     - Data Overview: "getstarted"
-    - EDA: "featured-users"
+    - EDA & Feature Engineering: "featured-users"
     - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
   Example pages:
     - Example of a Markdown page: "md-example"
