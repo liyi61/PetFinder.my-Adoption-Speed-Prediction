@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Exploratory Data Analysis
+title: EDA & Feature Engineering
 bigimg: /img/main5.png
 ---
 
