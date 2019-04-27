@@ -62,6 +62,7 @@ __Rate of pure breed pets in test data: 77.9635%.__
 ## The Impact of Gender on Adoption Speed
 
 __1 = Male, 2 = Female, 3 = Mixed__  
+*Gender is "Mixed", if profile represents group of pets. 
 
 <br>
 
@@ -69,7 +70,9 @@ __1 = Male, 2 = Female, 3 = Mixed__
 <script type='text/javascript'>var divElement = document.getElementById('viz1556328946904');var vizElement = divElement.getElementsByTagName('object')[0];vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';var scriptElement = document.createElement('script');scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 <br>
+![genderdist](/img/Screen Shot 2019-04-26 at 9.42.29 PM.png)
 
+According to this graph, we see that the number of Female pets is significantly larger than the number of Male pets in the training set, and that the Male pets are adopted quicker. Groups are also adopted slower than Male pets. 
 
 ### Personal websites
 
