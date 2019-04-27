@@ -56,8 +56,29 @@ We can see that young pets are adopted relatively fast and the peek is at two-mo
 
 ## The Impact of Breeds
 
-__Rate of pure breed pets in train data: 71.7802%.__  
-__Rate of pure breed pets in test data: 77.9635%.__  
+
+Rate of pure breed pets in train data: __71.7802%__.    
+Rate of pure breed pets in test data: __77.9635%__.    
+These numbers exist with the assumption that pets without "breed2" are pure breed. That is incorrect. Let's take a look at the top 15 combination of "breed1" and "breed2":
+{: .table.table-responsive}
+| Breed Name | Count |
+| :------ |:--- |
+|Mixed_Breed__- |5573
+|Domestic_Short_Hair__- |4042
+|Domestic_Medium_Hair__- |1264
+|Mixed_Breed__Mixed_Breed |1188
+|Tabby__- |379
+|Domestic_Short_Hair__Domestic_Short_Hair |320
+|Domestic_Long_Hair__- |244
+|Shih_Tzu__- |204
+|Poodle__- |153
+|Siamese__- |152
+|Labrador_Retriever__Mixed_Breed |132
+|Golden_Retriever__- |123
+|Domestic_Medium_Hair__Domestic_Medium_Hair |110
+|Domestic_Medium_Hair__Domestic_Short_Hair |104
+|Calico__- |101
+
 
 ## The Impact of Gender on Adoption Speed
 
