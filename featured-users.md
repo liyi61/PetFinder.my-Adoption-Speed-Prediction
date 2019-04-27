@@ -59,7 +59,7 @@ We can see that young pets are adopted relatively fast and the peek is at two-mo
 
 Rate of pure breed pets in train data: __71.7802%__.    
 Rate of pure breed pets in test data: __77.9635%__.    
-These numbers exist under the assumption that pets without "breed2" are pure breed. That is incorrect. Let's take a look at the top 15 combination of "breed1" and "breed2":  
+The breed information looks a bit messy and confusing. These numbers exist under the assumption that pets without "breed2" are pure breed. That is incorrect. Let's take a look at the top 15 combination of "breed1" and "breed2":  
 
 
 | Breed Name | Count |
@@ -79,6 +79,27 @@ These numbers exist under the assumption that pets without "breed2" are pure bre
 | Domestic_Medium_Hair__Domestic_Medium_Hair | 110 |
 | Domestic_Medium_Hair__Domestic_Short_Hair | 104 |
 | Calico__- | 101 |
+
+The assumption is wrong because a lot of people put "Mixed Breed" for breed1 and left breed2 blank. And all cats starting with "Domestic" seem not pure breed cats. After specifying all theses "Domestic" cats and mixed breed dogs as non-pure breed pets, it comes to the conclusion that pure breed pets are doing better regarding the adoption speed.  
+
+、、、python
+for i, row in all_data[all_data['Breed1_name'].str.contains('air')].iterrows():
+    if 'Short' in row['Breed1_name'] and row['FurLength'] == 1:
+        pass
+    elif 'Medium' in row['Breed1_name'] and row['FurLength'] == 2:
+        pass
+    elif 'Long' in row['Breed1_name'] and row['FurLength'] == 3:
+        pass
+    else:
+        c += 1
+        strange_pets.append((row['PetID'], row['Breed1_name'], row['FurLength']))
+、、、
+
+Another confusing feature is fur-length. There are 964 pets whose breed and fur length don't match.   
+Here are some examples:  
+![furlength](/img/Screen Shot 2019-04-26 at 11.25.27 PM.png)
+
+
 
 
 ## The Impact of Gender on Adoption Speed
