@@ -118,19 +118,23 @@ __1 = Male, 2 = Female, 3 = Mixed__
 
 According to this graph, we see that the number of Female pets is significantly larger than the number of Male pets in the training set, and that the Male pets are adopted quicker. Groups are also adopted slower than Male pets. 
 
-### Personal websites
 
-{: .table.table-responsive}
-| Website | Who | What |
-| :------ |:--- | :--- |
-| [deanattali.com](http://deanattali.com) | Dean Attali | Creator of Beautiful Jekyll |
-| [ouzor.github.io](http://ouzor.github.io) | Juuso Parkkinen | Data scientist |
-| [derekogle.com](http://derekogle.com/) | Derek Ogle | Professor of Mathematical Sciences and Natural Resources |
-| [melyanna.github.io](http://melyanna.github.io/) | Melyanna | Shows off her nice art |
-| [chauff.github.io](http://chauff.github.io/) | Claudia Hauff | Professor at Delft University of Technology |
-| [kootenpv.github.io](http://kootenpv.github.io/) | Pascal van Kooten | Data analytics |
-| [sjackman.ca](http://sjackman.ca) | Shaun Jackman | PhD candidate in bioinformatics |
-| [anudit.in](http://www.anudit.in/) | Anudit Verma | Engineering student |
-| [sharepointoscar.github.io](http://sharepointoscar.github.io) | Oscar Medina | Independent Hacker |
-| [ocram85.com](https://ocram85.com) | Marco Blessing | A personal blog about PowerShell and automation |
-| [khanna.cc](https://khanna.cc/) | Harry Khanna | Law and software |
+## The Influence of Health Status
+
+In the data, there are four variables that are related to the health of a pet or the medical actions that a pet has had. These are:  
+* Vaccinated - Pet has been vaccinated (1 = Yes, 2 = No, 3 = Not Sure)
+* Dewormed - Pet has been dewormed (1 = Yes, 2 = No, 3 = Not Sure)
+* Sterilized - Pet has been spayed / neutered (1 = Yes, 2 = No, 3 = Not Sure)
+* Health - Health Condition (1 = Healthy, 2 = Minor Injury, 3 = Serious Injury, 0 = Not Specified)
+
+This could be a very important feature because most people would surely prefer adopting a healthy pet. Also, as there are costs associated with vaccinating, deworming, and steralizing, people might be willing to adopt pets that have had these medical actions.
+
+
+
+
+
+
+
+
+
+
