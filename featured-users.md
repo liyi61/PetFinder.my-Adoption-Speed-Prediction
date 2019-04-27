@@ -59,7 +59,8 @@ We can see that young pets are adopted relatively fast and the peek is at two-mo
 
 Rate of pure breed pets in train data: __71.7802%__.    
 Rate of pure breed pets in test data: __77.9635%__.    
-These numbers exist with the assumption that pets without "breed2" are pure breed. That is incorrect. Let's take a look at the top 15 combination of "breed1" and "breed2":
+These numbers exist with the assumption that pets without "breed2" are pure breed. That is incorrect. Let's take a look at the top 15 combination of "breed1" and "breed2":  
+
 {: .table.table-responsive}
 | Breed Name | Count |
 | :------ |:--- |
