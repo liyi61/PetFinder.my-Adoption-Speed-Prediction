@@ -63,21 +63,21 @@ These numbers exist with the assumption that pets without "breed2" are pure bree
 {: .table.table-responsive}
 | Breed Name | Count |
 | :------ |:--- |
-|Mixed_Breed__- |5573 |
-|Domestic_Short_Hair__- |4042|
-|Domestic_Medium_Hair__- |1264|
-|Mixed_Breed__Mixed_Breed |1188|
-|Tabby__- |379|
-|Domestic_Short_Hair__Domestic_Short_Hair |320|
-|Domestic_Long_Hair__- |244|
-|Shih_Tzu__- |204|
-|Poodle__- |153|
-|Siamese__- |152|
-|Labrador_Retriever__Mixed_Breed |132|
-|Golden_Retriever__- |123|
-|Domestic_Medium_Hair__Domestic_Medium_Hair |110|
-|Domestic_Medium_Hair__Domestic_Short_Hair |104|
-|Calico__- |101|
+| Mixed_Breed__- | 5573 |
+| Domestic_Short_Hair__- | 4042 |
+| Domestic_Medium_Hair__- | 1264 |
+| Mixed_Breed__Mixed_Breed | 1188 |
+| Tabby__- | 379 |
+| Domestic_Short_Hair__Domestic_Short_Hair | 320 |
+| Domestic_Long_Hair__- | 244 |
+| Shih_Tzu__- | 204 |
+| Poodle__- | 153 |
+| Siamese__- | 152 |
+| Labrador_Retriever__Mixed_Breed | 132 |
+| Golden_Retriever__- | 123 |
+| Domestic_Medium_Hair__Domestic_Medium_Hair | 110 |
+| Domestic_Medium_Hair__Domestic_Short_Hair | 104 |
+| Calico__- | 101 |
 
 
 ## The Impact of Gender on Adoption Speed
