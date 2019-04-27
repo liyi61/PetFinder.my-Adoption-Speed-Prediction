@@ -136,7 +136,8 @@ The overall health for the majority is good, number of pets with serious injurie
 
 ![health](/img/health.png)
 
-
+To my surprise, pets that were not vaccinated get adopted quicker. After thinking about it, I figured that this might have something to do with age. Kittens/puppies are likely being not fully vaccinated yet by the time they got adopted, since young pets tent to be taken home quickly. Same thing happens to the feature "Dewormed".  
+When looking Sterilized, this is more like a personal choice to make and not a prerequisite to keep your pet healthy. Again, "No" scores better regarding adoption speed. I believe it is the same reason which can be explained by young pets not having had the treatment yet anyway.
 
 
 
