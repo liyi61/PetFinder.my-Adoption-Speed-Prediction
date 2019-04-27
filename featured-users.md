@@ -95,7 +95,7 @@ for i, row in all_data[all_data['Breed1_name'].str.contains('air')].iterrows():
         strange_pets.append((row['PetID'], row['Breed1_name'], row['FurLength']))
 ```
 
-Another confusing feature is fur-length. There are 964 pets whose breed and fur length don't match.   
+Another confusing feature is fur-length. There are __964__ pets whose breed and fur length don't match.   
 Here are some examples:  
 ![furlength](/img/Screen Shot 2019-04-26 at 11.25.27 PM.png)
 
