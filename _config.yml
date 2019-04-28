@@ -35,7 +35,7 @@ navbar-links:
     - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
   Modeling:
     - XGboost, LightGBM, Catboost, LigisticRegression : "md-example"
-    - Back-Propogation: "html-example"
+    - Back-Propogation: "BP"
   About me: "https://linkedin.com/in/yi-li0907"
 
 # --- Footer options --- #
