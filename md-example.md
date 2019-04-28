@@ -42,4 +42,42 @@ xgb_params = {'eta': 0.01, 'max_depth': 9, 'subsample': 0.9, 'colsample_bytree':
 ![XG1](/img/XG1.png)
 ![XG2](/img/XG2.png)
 
+## LightGBM
+
+```python
+model = lgb.train(params,
+                              train_data,
+                              num_boost_round=20000,
+                              valid_sets=[train_data, valid_data],
+                              verbose_eval=500,
+                              early_stopping_rounds=200)
+
+```
+```python
+params = {'num_leaves': 512,
+        #  'min_data_in_leaf': 60,
+         'objective': 'multiclass',
+         'max_depth': -1,
+         'learning_rate': 0.01,
+         "boosting": "gbdt",
+         "feature_fraction": 0.9,
+         "bagging_freq": 3,
+         "bagging_fraction": 0.9,
+         "bagging_seed": 11,
+         "random_state": 42,
+         "verbosity": -1,
+         "num_class": 5}
+```
+
+![gbm](/img/GBM.png)
+
+## Logistic Regression
+
+```python
+model = LogisticRegressionCV(scoring='neg_log_loss', cv=3, multi_class='multinomial')
+```
+
+![lcv](/img/LR.png)
+
+
 
