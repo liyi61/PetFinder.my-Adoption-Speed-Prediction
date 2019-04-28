@@ -79,5 +79,13 @@ model = LogisticRegressionCV(scoring='neg_log_loss', cv=3, multi_class='multinom
 
 ![lcv](/img/LR.png)
 
+## Testing Result
 
+| Model | Training Kappa | Testing Kappa |
+| :------: | :-----: |:-----: |
+| XGBoost | 0.3553 | 0.3016794437089825 |
+| LightGBM | 0.3530 | 0.3547277856966704 |
+| LogisticRegression CV | 0.2283 | 0.2081662794270801 |
+
+The results aren't very statisfying so I thought about using Back Propogation neural network algorithm. 
 
