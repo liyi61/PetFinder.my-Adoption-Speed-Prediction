@@ -33,10 +33,10 @@ navbar-links:
     - Data Overview: "getstarted"
     - EDA & Feature Engineering: "featured-users"
     - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
-  Example pages:
-    - Example of a Markdown page: "md-example"
-    - Example of an HTML page: "html-example"
-  About me: "https://www.linkedin.com/school/george-washington-university/about/"
+  Modeling:
+    - XGboost, LightGBM, Catboost, LigisticRegression : "md-example"
+    - Back-Propogation: "html-example"
+  About me: "https://linkedin.com/in/yi-li0907"
 
 # --- Footer options --- #
 
