@@ -28,18 +28,18 @@ cat_cols = cat_cols + more_cols
 In order for our models to have better performances, I decided to combine features in cat_cols which contains categorical features. Then I appended the combined features to the original list to obtain more features. Excessive number of features can cause model overfitting, however; in the original data, there were only 20-ish features so that adding more features won’t cause any trouble in this case. 
 
 
-## Or some code?
+## XGBoost
 
-Some code might go here:
+```python
+model = xgb.train(dtrain=train_data, num_boost_round=20000, evals=watchlist, early_stopping_rounds=200,
+                              verbose_eval=500, params=params)
+```
+```python
+xgb_params = {'eta': 0.01, 'max_depth': 9, 'subsample': 0.9, 'colsample_bytree': 0.9,
+          'objective': 'multi:softprob', 'eval_metric': 'merror', 'silent': True, 'nthread': 4, 'num_class': 5}
+```
 
-```
-x <- 5 # Here's some R code
-```
+![XG1](/img/XG1.png)
+![XG2](/img/XG2.png)
 
-What if I just paste the HTML for a plotly plot?
 
-We can do it with a line of markdown that looks like this (without the slashes - I haven't solved that problem just yet...):
-```
-\{\% include jupyter-basic_bar.html \%\}
-```
-{% include jupyter-basic_bar.html %}
