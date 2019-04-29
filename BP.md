@@ -32,9 +32,14 @@ with tf.name_scope('Loss'):
 ![bp2](/img/Screen Shot 2019-04-28 at 7.34.53 PM.png)
 
 ![bp1](/img/Screen Shot 2019-04-28 at 8.14.14 PM.png)
-
+The training kappa for Back Propagation is 0.6940
 
 
 ## Testing Result
+
+![testkappa](/img/testbp.png)
+
+Testing Kappa is __0.6466__.  
+
 
 
