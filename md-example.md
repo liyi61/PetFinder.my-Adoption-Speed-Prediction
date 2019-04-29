@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Modeling
-subtitle: XGBoost, LightGBM, CatBoost, and Logistic Regression
+subtitle: XGBoost, LightGBM, and Logistic Regression
 bigimg: /img/main2.jpg
 ---
 
