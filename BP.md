@@ -29,8 +29,8 @@ with tf.name_scope('Loss'):
     loss = tf.losses.softmax_cross_entropy(onehot_labels=y, logits=y_pred)
 ```
 
-![bp2](/img/Screen Shot 2019-04-28 at 3.32.37 AM.png)
-![bp1](/img/Screen Shot 2019-04-28 at 1.10.40 PM.png)
+![bp2](/img/Screen Shot 2019-04-28 at 7.34.53 PM.png)
+![bp1](/img/Screen Shot 2019-04-28 at 8.14.14 PM.png)
 
 
 
