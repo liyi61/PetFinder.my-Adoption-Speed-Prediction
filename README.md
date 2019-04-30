@@ -2,7 +2,7 @@
 
 ## DATS 6501 GWU Data Science Capstone Project
 
-All .py files are uploaded here.
+All .py files are uploaded in this repository.
 
 Project Page: https://liyi61.github.io/PetFinder.my-Adoption-Speed-Prediction/
 
