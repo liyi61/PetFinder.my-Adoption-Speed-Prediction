@@ -1,0 +1,428 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Looking for a kind soul to adopt energetic,loving and flirtatious handsome kitty.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Terms &amp; Conditions apply.** A) can you provide future medical attention(including vaccination)? B)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "long term commitment of () years.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "C) no roaming outside the house compound without supervision.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "D) must neuter to prevent contribution of unwanted population.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "E) need exercise and have time for him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "AGE: 4 months old AREA: K.L ( self pick up / transport can be arranged ) CONTACT: Whatapps or PM",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "soul",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2873088,
+      "mentions": [
+        {
+          "text": {
+            "content": "soul",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.113302805,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitty",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Terms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06259632,
+      "mentions": [
+        {
+          "text": {
+            "content": "Terms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Conditions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05507136,
+      "mentions": [
+        {
+          "text": {
+            "content": "Conditions",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "contribution",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.041935187,
+      "mentions": [
+        {
+          "text": {
+            "content": "contribution",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "commitment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037558842,
+      "mentions": [
+        {
+          "text": {
+            "content": "commitment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "C",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037427142,
+      "mentions": [
+        {
+          "text": {
+            "content": "C",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "roaming",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037427142,
+      "mentions": [
+        {
+          "text": {
+            "content": "roaming",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "supervision",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034359958,
+      "mentions": [
+        {
+          "text": {
+            "content": "supervision",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house compound",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.034359958,
+      "mentions": [
+        {
+          "text": {
+            "content": "house compound",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "attention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028494768,
+      "mentions": [
+        {
+          "text": {
+            "content": "attention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "AGE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02575698,
+      "mentions": [
+        {
+          "text": {
+            "content": "AGE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "AREA",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.02575698,
+      "mentions": [
+        {
+          "text": {
+            "content": "AREA",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "self",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02575698,
+      "mentions": [
+        {
+          "text": {
+            "content": "self",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024904914,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccination",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "B)",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02210456,
+      "mentions": [
+        {
+          "text": {
+            "content": "B)",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "CONTACT",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020543888,
+      "mentions": [
+        {
+          "text": {
+            "content": "CONTACT",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "D",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020307902,
+      "mentions": [
+        {
+          "text": {
+            "content": "D",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "transport",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018052597,
+      "mentions": [
+        {
+          "text": {
+            "content": "transport",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "K.L",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0152523685,
+      "mentions": [
+        {
+          "text": {
+            "content": "K.L",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "population",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011369256,
+      "mentions": [
+        {
+          "text": {
+            "content": "population",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Whatapps",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010682221,
+      "mentions": [
+        {
+          "text": {
+            "content": "Whatapps",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "exercise",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009669049,
+      "mentions": [
+        {
+          "text": {
+            "content": "exercise",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.1,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

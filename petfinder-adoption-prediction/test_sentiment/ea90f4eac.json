@@ -1,0 +1,98 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "FREE DELIVERY HE IS JUST 2MONTHS OLD Looks like pitbull mix with white spot at chest area.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "DELIVERY",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.5162121,
+      "mentions": [
+        {
+          "text": {
+            "content": "DELIVERY",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Looks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.20227142,
+      "mentions": [
+        {
+          "text": {
+            "content": "Looks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pitbull mix",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14893025,
+      "mentions": [
+        {
+          "text": {
+            "content": "pitbull mix",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chest area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.08109347,
+      "mentions": [
+        {
+          "text": {
+            "content": "chest area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05149274,
+      "mentions": [
+        {
+          "text": {
+            "content": "spot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

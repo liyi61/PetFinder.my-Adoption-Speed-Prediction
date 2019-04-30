@@ -1,0 +1,1088 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "月的某一天，一只金毛犬妈妈不断地翻腾。。。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "痛苦的在挣扎。。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "在这宝贵时刻一只只小小的金毛犬迫不及待的伸出头来了！",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "小小的脸颊和滑溜溜的身体带着那初生的美丽。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "我就是众多中的一只！",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "我们是一群被精心培育出来的品种，拥有高昂的身价并带着主人的期望！！",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "但是很不幸，我却是一个瑕疵品！！",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "我一出生就患上遗传性髖关节发育不全症及引发其他严重病症。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "因着我身上的病，在出生后的两个星期我就被带离我的家人来到一个陌生的地方！",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "几位穿上白袍子的人对我指指点点，不停的翻动我的身体。。。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "最后他们不断的摇头！！",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "这。。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "代表什么？？",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "我的生命已经到了尽头吗？",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "是的，这些人已经诊断我活不了了！",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "主人也选择让这些人把我人道毁灭！！",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "原来黎明之光很快就被黑夜吞没了。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "我再也看不到黎明了！！",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "不晓得为什么。。。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "感觉到有人帮我打针、喂我吃药！！",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "还每天帮我按摩！！",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "我还没死吗？？",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "当我张开眼睛的时候，看到一个穿着白袍束着长发的人不断的抚摸我。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "那一刻，让我感到一丝丝的温暖，好像看到希望之光！！",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "我在诊所被细心的照顾，我虽无法行走，但我开始期待有一天我可以康复。。。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "可以走出我的第一步！！",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "两个月后的一天，这个兽医把我带离了诊所。。。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "来到一个地方又有一位长发的人一样的爱护我。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "她们每天都会花时间照顾我、陪我玩、教我走路。。。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "终于我开始了我的第一步接下来的第二。。。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "第三步！！",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "到了今天我已经活了2年10个月了！！",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "我期待每一天的黎明。。。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "它让我觉得每一天都带着新希望！！",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "金毛犬",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12626371,
+      "mentions": [
+        {
+          "text": {
+            "content": "金毛犬",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "妈妈",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.08994375,
+      "mentions": [
+        {
+          "text": {
+            "content": "妈妈",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "身体",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07379911,
+      "mentions": [
+        {
+          "text": {
+            "content": "身体",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "金毛犬",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.055953514,
+      "mentions": [
+        {
+          "text": {
+            "content": "金毛犬",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "身价",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04418098,
+      "mentions": [
+        {
+          "text": {
+            "content": "身价",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "伸出头",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.039833833,
+      "mentions": [
+        {
+          "text": {
+            "content": "伸出头",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "全症",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035063367,
+      "mentions": [
+        {
+          "text": {
+            "content": "全症",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "脸颊",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03424478,
+      "mentions": [
+        {
+          "text": {
+            "content": "脸颊",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "滑溜溜",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03424478,
+      "mentions": [
+        {
+          "text": {
+            "content": "滑溜溜",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "初生",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03424478,
+      "mentions": [
+        {
+          "text": {
+            "content": "初生",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.034010287,
+      "mentions": [
+        {
+          "text": {
+            "content": "人",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "美丽",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030216629,
+      "mentions": [
+        {
+          "text": {
+            "content": "美丽",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "主人",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028790385,
+      "mentions": [
+        {
+          "text": {
+            "content": "主人",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "品种",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021275459,
+      "mentions": [
+        {
+          "text": {
+            "content": "品种",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "期望",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020491267,
+      "mentions": [
+        {
+          "text": {
+            "content": "期望",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "瑕疵品",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01889594,
+      "mentions": [
+        {
+          "text": {
+            "content": "瑕疵品",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018182378,
+      "mentions": [
+        {
+          "text": {
+            "content": "人",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017743275,
+      "mentions": [
+        {
+          "text": {
+            "content": "人",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "髋关节",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017614702,
+      "mentions": [
+        {
+          "text": {
+            "content": "髖关节",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017575696,
+      "mentions": [
+        {
+          "text": {
+            "content": "人",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017276367,
+      "mentions": [
+        {
+          "text": {
+            "content": "人",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "身上",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013115641,
+      "mentions": [
+        {
+          "text": {
+            "content": "身上",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "身体",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012408674,
+      "mentions": [
+        {
+          "text": {
+            "content": "身体",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "长发",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008716073,
+      "mentions": [
+        {
+          "text": {
+            "content": "长发",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "主人",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00863373,
+      "mentions": [
+        {
+          "text": {
+            "content": "主人",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "地方",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0085439505,
+      "mentions": [
+        {
+          "text": {
+            "content": "地方",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "光",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00852313,
+      "mentions": [
+        {
+          "text": {
+            "content": "光",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "光",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00836277,
+      "mentions": [
+        {
+          "text": {
+            "content": "光",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "诊所",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.008342077,
+      "mentions": [
+        {
+          "text": {
+            "content": "诊所",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "照顾",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008342077,
+      "mentions": [
+        {
+          "text": {
+            "content": "照顾",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "白袍",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007885161,
+      "mentions": [
+        {
+          "text": {
+            "content": "白袍",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "摇头",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0074823475,
+      "mentions": [
+        {
+          "text": {
+            "content": "摇头",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00745374,
+      "mentions": [
+        {
+          "text": {
+            "content": "人",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "尽头",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0065909396,
+      "mentions": [
+        {
+          "text": {
+            "content": "尽头",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "生命",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0065909396,
+      "mentions": [
+        {
+          "text": {
+            "content": "生命",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "病症",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0064685917,
+      "mentions": [
+        {
+          "text": {
+            "content": "病症",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "人道",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006143885,
+      "mentions": [
+        {
+          "text": {
+            "content": "人道",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "家人",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0060799923,
+      "mentions": [
+        {
+          "text": {
+            "content": "家人",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "病",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0060799923,
+      "mentions": [
+        {
+          "text": {
+            "content": "病",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "温暖",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0060651745,
+      "mentions": [
+        {
+          "text": {
+            "content": "温暖",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "黑夜",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005951052,
+      "mentions": [
+        {
+          "text": {
+            "content": "黑夜",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "白袍子",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0057521984,
+      "mentions": [
+        {
+          "text": {
+            "content": "白袍子",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "眼睛",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005611156,
+      "mentions": [
+        {
+          "text": {
+            "content": "眼睛",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "指点点",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0043125013,
+      "mentions": [
+        {
+          "text": {
+            "content": "指点点",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "诊所",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0037316494,
+      "mentions": [
+        {
+          "text": {
+            "content": "诊所",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "地方",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0036609368,
+      "mentions": [
+        {
+          "text": {
+            "content": "地方",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "长发",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036609368,
+      "mentions": [
+        {
+          "text": {
+            "content": "长发",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "希望",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0029903208,
+      "mentions": [
+        {
+          "text": {
+            "content": "希望",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "兽医",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026553809,
+      "mentions": [
+        {
+          "text": {
+            "content": "兽医",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 14.2,
+    "score": 0.3
+  },
+  "language": "zh",
+  "categories": []
+}

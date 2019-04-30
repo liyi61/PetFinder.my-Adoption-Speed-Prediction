@@ -1,0 +1,318 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Gingebell are the last pups out of 7 from salat south rescue.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Gingebell had pure black soft fur, big round eyes that can melt your ice berg.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "She have done 2 vaccine, and she's with great temperament, she's paper trained, and she stay in cages during working hour, she's clam yet mischievous and always wanting to have your attention.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Both of them love to cuddle at your lap and listen to what you have to tell them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Adoption fee are for the puppies sterilization.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Gingebell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.54069924,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gingebell",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "pups",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1211754,
+      "mentions": [
+        {
+          "text": {
+            "content": "pups",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "salat south rescue",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09730217,
+      "mentions": [
+        {
+          "text": {
+            "content": "salat south rescue",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Gingebell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06510494,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gingebell",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05362192,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fur",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018471273,
+      "mentions": [
+        {
+          "text": {
+            "content": "fur",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "temperament",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012588325,
+      "mentions": [
+        {
+          "text": {
+            "content": "temperament",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "paper",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.012588325,
+      "mentions": [
+        {
+          "text": {
+            "content": "paper",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ice berg",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01249713,
+      "mentions": [
+        {
+          "text": {
+            "content": "ice berg",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccine",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012435312,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccine",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cages",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011555257,
+      "mentions": [
+        {
+          "text": {
+            "content": "cages",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clam",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011555257,
+      "mentions": [
+        {
+          "text": {
+            "content": "clam",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lap",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008687948,
+      "mentions": [
+        {
+          "text": {
+            "content": "lap",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies sterilization",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0060706926,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies sterilization",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Both",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0059397123,
+      "mentions": [
+        {
+          "text": {
+            "content": "Both",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Adoption fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005923464,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adoption fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "attention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0037836025,
+      "mentions": [
+        {
+          "text": {
+            "content": "attention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

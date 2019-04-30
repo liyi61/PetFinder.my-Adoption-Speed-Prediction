@@ -1,0 +1,139 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "URGENT!!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "These kittens were abandoned by mommy cat when they were very young, they are in Ipoh, Perak at this moment.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Now 2 months later they are ready to go to new homes as Auntie would be unable to care for them if they grow further.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.52214915,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Auntie",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.25963378,
+      "mentions": [
+        {
+          "text": {
+            "content": "Auntie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "mommy cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1076734,
+      "mentions": [
+        {
+          "text": {
+            "content": "mommy cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Perak",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/015q02",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Perak"
+      },
+      "salience": 0.044200767,
+      "mentions": [
+        {
+          "text": {
+            "content": "Perak",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Ipoh",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01rv39",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Ipoh"
+      },
+      "salience": 0.043666173,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ipoh",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "homes",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.022676714,
+      "mentions": [
+        {
+          "text": {
+            "content": "homes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": -0.4
+  },
+  "language": "en",
+  "categories": []
+}

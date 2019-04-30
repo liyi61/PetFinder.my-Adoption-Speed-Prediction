@@ -1,0 +1,541 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Name: Choy-Choy (蔡蔡) Gender: Male Age: about 3 years old Neutered: Yes, in Dec De-Wormed: Yes De-Flea： Yes --------------------------------------------------------------------- For enquiry, pls contact (Whats-App) (Whats-App) --------------------------------------------------------------------- 如果您愿意给 Choy-Choy (蔡蔡) 一个温暖的家，如果您真的有兴趣要带 Choy-Choy (蔡蔡) 回家，或者想在带回家前看看这个可爱的小家伙，欢迎联络我，再安排地点与时间。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "谢谢您，花2分钟看看 Choy-Choy (蔡蔡) 的资料。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "也希望你多花2分钟的时间，考虑收养 Choy-Choy (蔡蔡) 。 --------------------------------------------------------------------- If you are interested in giving a home to these lovely kitties, kindly contact the above information.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "But before that please do consider the responsibilities of being a pet owner and decide only after serious consideration.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "There is no point in having these kitties out of impulse and decide to throw them or give them away later.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Animals have feelings too.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Interested parties, please call / SMS or e-mail me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Details about yourself and your experience with cats will be much appreciated.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "蔡蔡",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.084835455,
+      "mentions": [
+        {
+          "text": {
+            "content": "蔡蔡",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Choy-Choy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.084835455,
+      "mentions": [
+        {
+          "text": {
+            "content": "Choy-Choy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "蔡蔡",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06334507,
+      "mentions": [
+        {
+          "text": {
+            "content": "蔡蔡",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Yes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06093972,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yes",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Yes De-Flea",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06093972,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yes De-Flea",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Yes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06093972,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yes",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "---------------------------------------------------------------------",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06093972,
+      "mentions": [
+        {
+          "text": {
+            "content": "---------------------------------------------------------------------",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "in Dec De-Wormed",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.051474627,
+      "mentions": [
+        {
+          "text": {
+            "content": "in Dec De-Wormed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "---------------------------------------------------------------------",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.045393195,
+      "mentions": [
+        {
+          "text": {
+            "content": "---------------------------------------------------------------------",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Choy-Choy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.037343927,
+      "mentions": [
+        {
+          "text": {
+            "content": "Choy-Choy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Whats-App",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0gwzvs1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/WhatsApp"
+      },
+      "salience": 0.035790242,
+      "mentions": [
+        {
+          "text": {
+            "content": "Whats-App",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Whats-App",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Gender",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/m/09hcb",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Gender"
+      },
+      "salience": 0.034417,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gender",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Male Age: about 3 years old Neutered",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.034417,
+      "mentions": [
+        {
+          "text": {
+            "content": "Male Age: about 3 years old Neutered",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "家",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.030184848,
+      "mentions": [
+        {
+          "text": {
+            "content": "家",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pls contact",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025568554,
+      "mentions": [
+        {
+          "text": {
+            "content": "pls contact",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "For enquiry",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025568554,
+      "mentions": [
+        {
+          "text": {
+            "content": "For enquiry",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "蔡蔡",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02361873,
+      "mentions": [
+        {
+          "text": {
+            "content": "蔡蔡",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Choy-Choy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020860285,
+      "mentions": [
+        {
+          "text": {
+            "content": "Choy-Choy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Choy-Choy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017722156,
+      "mentions": [
+        {
+          "text": {
+            "content": "Choy-Choy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "蔡蔡",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017722156,
+      "mentions": [
+        {
+          "text": {
+            "content": "蔡蔡",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Choy-Choy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015838409,
+      "mentions": [
+        {
+          "text": {
+            "content": "Choy-Choy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "蔡蔡",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015838409,
+      "mentions": [
+        {
+          "text": {
+            "content": "蔡蔡",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "家伙",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011564633,
+      "mentions": [
+        {
+          "text": {
+            "content": "家伙",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "---------------------------------------------------------------------",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011289843,
+      "mentions": [
+        {
+          "text": {
+            "content": "---------------------------------------------------------------------",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "地点",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010865469,
+      "mentions": [
+        {
+          "text": {
+            "content": "地点",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "兴趣",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010466345,
+      "mentions": [
+        {
+          "text": {
+            "content": "兴趣",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "资料",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0063426425,
+      "mentions": [
+        {
+          "text": {
+            "content": "资料",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Interested parties",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0030072886,
+      "mentions": [
+        {
+          "text": {
+            "content": "Interested parties",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "please call",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0021405825,
+      "mentions": [
+        {
+          "text": {
+            "content": "please call",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.8,
+    "score": 0.4
+  },
+  "language": "zh",
+  "categories": []
+}

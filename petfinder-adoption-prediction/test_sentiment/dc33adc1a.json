@@ -1,0 +1,128 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Creamy was rescued from Sg Chua market located at kajang.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "He is obedient and friendly, seldom make noise unless when he see strangers or feeding time.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Creamy",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.38674188,
+      "mentions": [
+        {
+          "text": {
+            "content": "Creamy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "market",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.25869578,
+      "mentions": [
+        {
+          "text": {
+            "content": "market",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sg Chua",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/g/1tnjg1x_"
+      },
+      "salience": 0.15805127,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sg Chua",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "kajang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/049x3",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kajang"
+      },
+      "salience": 0.10830891,
+      "mentions": [
+        {
+          "text": {
+            "content": "kajang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "strangers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.066287786,
+      "mentions": [
+        {
+          "text": {
+            "content": "strangers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "noise",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021914376,
+      "mentions": [
+        {
+          "text": {
+            "content": "noise",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.5,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}
