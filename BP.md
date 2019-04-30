@@ -36,7 +36,7 @@ with tf.name_scope('Loss'):
 ![bp1](/img/Screen Shot 2019-04-28 at 8.14.14 PM.png)
 
 The training kappa for Back Propagation Neural Network is __0.6940__.
-
+The Training took about 6 hours.
 
 ## Testing Result
 
