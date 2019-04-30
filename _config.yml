@@ -34,8 +34,8 @@ navbar-links:
     - EDA & Feature Engineering: "featured-users"
     - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
   Modeling:
-    - XGboost, LightGBM, LigisticRegression : "md-example"
-    - Back-Propogation: "BP"
+    - XGboost, LightGBM, LogisticRegression : "md-example"
+    - Back Propagation Neural Network: "BP"
   About me: "https://linkedin.com/in/yi-li0907"
 
 # --- Footer options --- #
