@@ -12,7 +12,6 @@ __This dataset has 14993 rows and 25 columns__
 ![preview](/img/Screen Shot 2019-04-22 at 3.46.49 AM.png)
 
 
-
 ## Data Fields
 
 * __PetID__ - Unique hash ID of pet profile
@@ -41,7 +40,7 @@ __This dataset has 14993 rows and 25 columns__
 * __Description__ - Profile write-up for this pet. The primary language used is English, with some in Malay or Chinese.
 
 
-## Adoption Speed
+## Target- Adoption Speed
 
 Contestants are required to predict this value. The value is determined by how quickly, if at all, a pet is adopted. The values are determined in the following way: 
 
@@ -51,17 +50,3 @@ Contestants are required to predict this value. The value is determined by how q
 3 - Pet was adopted between 31 and 90 days (2nd & 3rd month) after being listed.  
 4 - No adoption after 100 days of being listed. (There are no pets in this dataset that waited between 90 and 100 days). 
 
-
-### 3. Customize settings
-
-Edit the `_config.yml` file to change all the settings to reflect your site.  The settings in the file are fairly self-explanatory and I added comments inside the file to help you further.  Every time you make a change to any file, your website will get rebuilt and should be updated at `yourusername.github.io` within a minute.
-
-You can now visit your shiny new website, which will be seeded with several sample blog posts and a couple other pages.
-
----
-
-See how easy that is? I wasn't lying - it really can be done in two minutes.
-
-<div class="get-started-wrap">
-  <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
-</div>
