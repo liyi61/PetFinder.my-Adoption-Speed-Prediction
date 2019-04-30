@@ -1,0 +1,177 @@
+{
+    "labelAnnotations": [
+        {
+            "mid": "/m/0bt9lr",
+            "description": "dog",
+            "score": 0.9477176,
+            "topicality": 0.9477176
+        },
+        {
+            "mid": "/m/01z5f",
+            "description": "dog like mammal",
+            "score": 0.9416177,
+            "topicality": 0.9416177
+        },
+        {
+            "mid": "/m/02xl47d",
+            "description": "dog breed group",
+            "score": 0.8838502,
+            "topicality": 0.8838502
+        },
+        {
+            "mid": "/m/0kpmf",
+            "description": "dog breed",
+            "score": 0.8807821,
+            "topicality": 0.8807821
+        },
+        {
+            "mid": "/m/05mqq3",
+            "description": "snout",
+            "score": 0.73593014,
+            "topicality": 0.73593014
+        },
+        {
+            "mid": "/m/01lrl",
+            "description": "carnivoran",
+            "score": 0.65384394,
+            "topicality": 0.65384394
+        },
+        {
+            "mid": "/m/0cnmr",
+            "description": "fur",
+            "score": 0.6399602,
+            "topicality": 0.6399602
+        },
+        {
+            "mid": "/m/08xf1x",
+            "description": "non sporting group",
+            "score": 0.53461105,
+            "topicality": 0.53461105
+        },
+        {
+            "mid": "/m/039xj_",
+            "description": "ear",
+            "score": 0.517651,
+            "topicality": 0.517651
+        }
+    ],
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 67,
+                        "green": 43,
+                        "blue": 46
+                    },
+                    "score": 0.122606896,
+                    "pixelFraction": 0.054977454
+                },
+                {
+                    "color": {
+                        "red": 252,
+                        "green": 224,
+                        "blue": 153
+                    },
+                    "score": 0.07271181,
+                    "pixelFraction": 0.10215054
+                },
+                {
+                    "color": {
+                        "red": 206,
+                        "green": 143,
+                        "blue": 100
+                    },
+                    "score": 0.031019589,
+                    "pixelFraction": 0.01326743
+                },
+                {
+                    "color": {
+                        "red": 42,
+                        "green": 21,
+                        "blue": 23
+                    },
+                    "score": 0.08359014,
+                    "pixelFraction": 0.031477626
+                },
+                {
+                    "color": {
+                        "red": 34,
+                        "green": 23,
+                        "blue": 24
+                    },
+                    "score": 0.07986306,
+                    "pixelFraction": 0.103624694
+                },
+                {
+                    "color": {
+                        "red": 55,
+                        "green": 46,
+                        "blue": 46
+                    },
+                    "score": 0.0789921,
+                    "pixelFraction": 0.06651058
+                },
+                {
+                    "color": {
+                        "red": 78,
+                        "green": 42,
+                        "blue": 32
+                    },
+                    "score": 0.053034186,
+                    "pixelFraction": 0.020464793
+                },
+                {
+                    "color": {
+                        "red": 78,
+                        "green": 79,
+                        "blue": 77
+                    },
+                    "score": 0.04858409,
+                    "pixelFraction": 0.05159556
+                },
+                {
+                    "color": {
+                        "red": 100,
+                        "green": 75,
+                        "blue": 78
+                    },
+                    "score": 0.042493116,
+                    "pixelFraction": 0.034079086
+                },
+                {
+                    "color": {
+                        "red": 112,
+                        "green": 72,
+                        "blue": 58
+                    },
+                    "score": 0.039381906,
+                    "pixelFraction": 0.018990634
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        {},
+                        {
+                            "x": 399
+                        },
+                        {
+                            "x": 399,
+                            "y": 298
+                        },
+                        {
+                            "y": 298
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    }
+}

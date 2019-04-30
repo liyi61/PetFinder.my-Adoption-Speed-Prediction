@@ -1,0 +1,209 @@
+{
+    "labelAnnotations": [
+        {
+            "mid": "/m/01yrx",
+            "description": "cat",
+            "score": 0.99216044,
+            "topicality": 0.99216044
+        },
+        {
+            "mid": "/m/07k6w8",
+            "description": "small to medium sized cats",
+            "score": 0.9196493,
+            "topicality": 0.9196493
+        },
+        {
+            "mid": "/m/035qhg",
+            "description": "fauna",
+            "score": 0.9053291,
+            "topicality": 0.9053291
+        },
+        {
+            "mid": "/m/0b75wg4",
+            "description": "photo caption",
+            "score": 0.8999029,
+            "topicality": 0.8999029
+        },
+        {
+            "mid": "/m/0307l",
+            "description": "cat like mammal",
+            "score": 0.8968783,
+            "topicality": 0.8968783
+        },
+        {
+            "mid": "/m/01l7qd",
+            "description": "whiskers",
+            "score": 0.886284,
+            "topicality": 0.886284
+        },
+        {
+            "mid": "/m/012c9l",
+            "description": "domestic short haired cat",
+            "score": 0.7472875,
+            "topicality": 0.7472875
+        },
+        {
+            "mid": "/m/0g4cd0",
+            "description": "tabby cat",
+            "score": 0.7256364,
+            "topicality": 0.7256364
+        },
+        {
+            "mid": "/m/05mqq3",
+            "description": "snout",
+            "score": 0.6791155,
+            "topicality": 0.6791155
+        },
+        {
+            "mid": "/m/04y7lg1",
+            "description": "dragon li",
+            "score": 0.65887624,
+            "topicality": 0.65887624
+        }
+    ],
+    "textAnnotations": [
+        {
+            "locale": "fil",
+            "description": "For Adoption\nPls contact: Nicole (XXX-XXX XXXX)\nay XXX\n",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 29,
+                        "y": 2
+                    },
+                    {
+                        "x": 226,
+                        "y": 2
+                    },
+                    {
+                        "x": 226,
+                        "y": 381
+                    },
+                    {
+                        "x": 29,
+                        "y": 381
+                    }
+                ]
+            }
+        }
+    ],
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 163,
+                        "green": 110,
+                        "blue": 40
+                    },
+                    "score": 0.250115,
+                    "pixelFraction": 0.06995725
+                },
+                {
+                    "color": {
+                        "red": 182,
+                        "green": 147,
+                        "blue": 87
+                    },
+                    "score": 0.084279366,
+                    "pixelFraction": 0.114554994
+                },
+                {
+                    "color": {
+                        "red": 27,
+                        "green": 19,
+                        "blue": 10
+                    },
+                    "score": 0.001888202,
+                    "pixelFraction": 0.017877964
+                },
+                {
+                    "color": {
+                        "red": 158,
+                        "green": 110,
+                        "blue": 52
+                    },
+                    "score": 0.17952493,
+                    "pixelFraction": 0.09172173
+                },
+                {
+                    "color": {
+                        "red": 124,
+                        "green": 75,
+                        "blue": 27
+                    },
+                    "score": 0.0948304,
+                    "pixelFraction": 0.059560824
+                },
+                {
+                    "color": {
+                        "red": 188,
+                        "green": 137,
+                        "blue": 63
+                    },
+                    "score": 0.08684928,
+                    "pixelFraction": 0.048970073
+                },
+                {
+                    "color": {
+                        "red": 187,
+                        "green": 139,
+                        "blue": 79
+                    },
+                    "score": 0.07955322,
+                    "pixelFraction": 0.0627672
+                },
+                {
+                    "color": {
+                        "red": 146,
+                        "green": 118,
+                        "blue": 58
+                    },
+                    "score": 0.06785076,
+                    "pixelFraction": 0.050427515
+                },
+                {
+                    "color": {
+                        "red": 193,
+                        "green": 153,
+                        "blue": 77
+                    },
+                    "score": 0.034292553,
+                    "pixelFraction": 0.02594248
+                },
+                {
+                    "color": {
+                        "red": 137,
+                        "green": 83,
+                        "blue": 15
+                    },
+                    "score": 0.023001326,
+                    "pixelFraction": 0.0059269336
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        {},
+                        {
+                            "x": 266
+                        },
+                        {
+                            "x": 266,
+                            "y": 399
+                        },
+                        {
+                            "y": 399
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    }
+}

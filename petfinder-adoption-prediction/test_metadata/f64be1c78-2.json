@@ -1,0 +1,156 @@
+{
+    "labelAnnotations": [
+        {
+            "mid": "/m/019sc",
+            "description": "black",
+            "score": 0.9534604,
+            "topicality": 0.9534604
+        },
+        {
+            "mid": "/m/01m3tw",
+            "description": "animal shelter",
+            "score": 0.9392203,
+            "topicality": 0.9392203
+        },
+        {
+            "mid": "/m/06_4_k",
+            "description": "cage",
+            "score": 0.86173975,
+            "topicality": 0.86173975
+        },
+        {
+            "mid": "/m/01g6gs",
+            "description": "black and white",
+            "score": 0.76637524,
+            "topicality": 0.76637524
+        },
+        {
+            "mid": "/m/01yrx",
+            "description": "cat",
+            "score": 0.6997727,
+            "topicality": 0.6997727
+        },
+        {
+            "mid": "/m/07k6w8",
+            "description": "small to medium sized cats",
+            "score": 0.6627646,
+            "topicality": 0.6627646
+        },
+        {
+            "mid": "/m/0307l",
+            "description": "cat like mammal",
+            "score": 0.6211549,
+            "topicality": 0.6211549
+        },
+        {
+            "mid": "/m/0bwm8q",
+            "description": "dog crate",
+            "score": 0.55533844,
+            "topicality": 0.55533844
+        },
+        {
+            "mid": "/m/03dj64",
+            "description": "black cat",
+            "score": 0.5388233,
+            "topicality": 0.5388233
+        },
+        {
+            "mid": "/m/06z_nw",
+            "description": "tail",
+            "score": 0.5099431,
+            "topicality": 0.5099431
+        }
+    ],
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 147,
+                        "green": 151,
+                        "blue": 140
+                    },
+                    "score": 0.44990885,
+                    "pixelFraction": 0.10978148
+                },
+                {
+                    "color": {
+                        "red": 11,
+                        "green": 12,
+                        "blue": 10
+                    },
+                    "score": 0.28015003,
+                    "pixelFraction": 0.48595214
+                },
+                {
+                    "color": {
+                        "red": 125,
+                        "green": 129,
+                        "blue": 121
+                    },
+                    "score": 0.19976811,
+                    "pixelFraction": 0.25355533
+                },
+                {
+                    "color": {
+                        "red": 83,
+                        "green": 85,
+                        "blue": 80
+                    },
+                    "score": 0.030389637,
+                    "pixelFraction": 0.07353451
+                },
+                {
+                    "color": {
+                        "red": 49,
+                        "green": 51,
+                        "blue": 47
+                    },
+                    "score": 0.02624056,
+                    "pixelFraction": 0.07171349
+                },
+                {
+                    "color": {
+                        "red": 191,
+                        "green": 195,
+                        "blue": 191
+                    },
+                    "score": 0.012190477,
+                    "pixelFraction": 0.0046826224
+                },
+                {
+                    "color": {
+                        "red": 215,
+                        "green": 220,
+                        "blue": 216
+                    },
+                    "score": 0.0013523368,
+                    "pixelFraction": 0.000780437
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        {},
+                        {
+                            "x": 399
+                        },
+                        {
+                            "x": 399,
+                            "y": 299
+                        },
+                        {
+                            "y": 299
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    }
+}

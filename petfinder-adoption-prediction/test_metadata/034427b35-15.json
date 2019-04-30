@@ -1,0 +1,171 @@
+{
+    "labelAnnotations": [
+        {
+            "mid": "/m/0bt9lr",
+            "description": "dog",
+            "score": 0.9576214,
+            "topicality": 0.9576214
+        },
+        {
+            "mid": "/m/01z5f",
+            "description": "dog like mammal",
+            "score": 0.8850125,
+            "topicality": 0.8850125
+        },
+        {
+            "mid": "/m/0kpmf",
+            "description": "dog breed",
+            "score": 0.8793125,
+            "topicality": 0.8793125
+        },
+        {
+            "mid": "/m/05mqq3",
+            "description": "snout",
+            "score": 0.7444509,
+            "topicality": 0.7444509
+        },
+        {
+            "mid": "/m/018g_l",
+            "description": "rhodesian ridgeback",
+            "score": 0.59020764,
+            "topicality": 0.59020764
+        },
+        {
+            "mid": "/m/01lrl",
+            "description": "carnivoran",
+            "score": 0.5422349,
+            "topicality": 0.5422349
+        },
+        {
+            "mid": "/m/01c34b",
+            "description": "flooring",
+            "score": 0.53786707,
+            "topicality": 0.53786707
+        },
+        {
+            "mid": "/m/0d7s3w",
+            "description": "puppy",
+            "score": 0.50348747,
+            "topicality": 0.50348747
+        }
+    ],
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 214,
+                        "green": 248,
+                        "blue": 97
+                    },
+                    "score": 0.23090622,
+                    "pixelFraction": 0.028962886
+                },
+                {
+                    "color": {
+                        "red": 124,
+                        "green": 170,
+                        "blue": 49
+                    },
+                    "score": 0.11012271,
+                    "pixelFraction": 0.041363165
+                },
+                {
+                    "color": {
+                        "red": 128,
+                        "green": 73,
+                        "blue": 24
+                    },
+                    "score": 0.046276674,
+                    "pixelFraction": 0.0250607
+                },
+                {
+                    "color": {
+                        "red": 61,
+                        "green": 102,
+                        "blue": 23
+                    },
+                    "score": 0.017758546,
+                    "pixelFraction": 0.08628165
+                },
+                {
+                    "color": {
+                        "red": 59,
+                        "green": 50,
+                        "blue": 24
+                    },
+                    "score": 0.01123596,
+                    "pixelFraction": 0.032604925
+                },
+                {
+                    "color": {
+                        "red": 20,
+                        "green": 17,
+                        "blue": 10
+                    },
+                    "score": 0.005532233,
+                    "pixelFraction": 0.29136315
+                },
+                {
+                    "color": {
+                        "red": 169,
+                        "green": 214,
+                        "blue": 70
+                    },
+                    "score": 0.09872254,
+                    "pixelFraction": 0.016649324
+                },
+                {
+                    "color": {
+                        "red": 241,
+                        "green": 253,
+                        "blue": 111
+                    },
+                    "score": 0.09456073,
+                    "pixelFraction": 0.010319112
+                },
+                {
+                    "color": {
+                        "red": 90,
+                        "green": 136,
+                        "blue": 33
+                    },
+                    "score": 0.061721683,
+                    "pixelFraction": 0.043704476
+                },
+                {
+                    "color": {
+                        "red": 161,
+                        "green": 203,
+                        "blue": 75
+                    },
+                    "score": 0.033626188,
+                    "pixelFraction": 0.009191814
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        {},
+                        {
+                            "x": 399
+                        },
+                        {
+                            "x": 399,
+                            "y": 299
+                        },
+                        {
+                            "y": 299
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    }
+}

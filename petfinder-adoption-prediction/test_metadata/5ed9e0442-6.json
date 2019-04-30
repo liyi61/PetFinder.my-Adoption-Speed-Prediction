@@ -1,0 +1,209 @@
+{
+    "labelAnnotations": [
+        {
+            "mid": "/m/01yrx",
+            "description": "cat",
+            "score": 0.9934052,
+            "topicality": 0.9934052
+        },
+        {
+            "mid": "/m/07k6w8",
+            "description": "small to medium sized cats",
+            "score": 0.9222869,
+            "topicality": 0.9222869
+        },
+        {
+            "mid": "/m/0307l",
+            "description": "cat like mammal",
+            "score": 0.90417105,
+            "topicality": 0.90417105
+        },
+        {
+            "mid": "/m/0b75wg4",
+            "description": "photo caption",
+            "score": 0.900941,
+            "topicality": 0.900941
+        },
+        {
+            "mid": "/m/035qhg",
+            "description": "fauna",
+            "score": 0.8759307,
+            "topicality": 0.8759307
+        },
+        {
+            "mid": "/m/01l7qd",
+            "description": "whiskers",
+            "score": 0.84909505,
+            "topicality": 0.84909505
+        },
+        {
+            "mid": "/m/0hjzp",
+            "description": "kitten",
+            "score": 0.7901788,
+            "topicality": 0.7901788
+        },
+        {
+            "mid": "/m/012c9l",
+            "description": "domestic short haired cat",
+            "score": 0.7307306,
+            "topicality": 0.7307306
+        },
+        {
+            "mid": "/m/0k8hs",
+            "description": "domestic long haired cat",
+            "score": 0.67665994,
+            "topicality": 0.67665994
+        },
+        {
+            "mid": "/m/02w7c7",
+            "description": "ragdoll",
+            "score": 0.6599077,
+            "topicality": 0.6599077
+        }
+    ],
+    "textAnnotations": [
+        {
+            "locale": "ms",
+            "description": "For Adeptien\nLocation: Lee Veterinary Clinic (Kuchai Lama) Tel: 03-XXXX XXXX\n",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 6,
+                        "y": 360
+                    },
+                    {
+                        "x": 256,
+                        "y": 360
+                    },
+                    {
+                        "x": 256,
+                        "y": 399
+                    },
+                    {
+                        "x": 6,
+                        "y": 399
+                    }
+                ]
+            }
+        }
+    ],
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 226,
+                        "green": 226,
+                        "blue": 196
+                    },
+                    "score": 0.37814358,
+                    "pixelFraction": 0.11892732
+                },
+                {
+                    "color": {
+                        "red": 202,
+                        "green": 199,
+                        "blue": 162
+                    },
+                    "score": 0.33035967,
+                    "pixelFraction": 0.12048193
+                },
+                {
+                    "color": {
+                        "red": 22,
+                        "green": 23,
+                        "blue": 19
+                    },
+                    "score": 0.0029612987,
+                    "pixelFraction": 0.13690245
+                },
+                {
+                    "color": {
+                        "red": 54,
+                        "green": 20,
+                        "blue": 16
+                    },
+                    "score": 0.0018830444,
+                    "pixelFraction": 0.0077730278
+                },
+                {
+                    "color": {
+                        "red": 168,
+                        "green": 164,
+                        "blue": 127
+                    },
+                    "score": 0.16443688,
+                    "pixelFraction": 0.09551108
+                },
+                {
+                    "color": {
+                        "red": 174,
+                        "green": 166,
+                        "blue": 113
+                    },
+                    "score": 0.032235194,
+                    "pixelFraction": 0.0058297706
+                },
+                {
+                    "color": {
+                        "red": 196,
+                        "green": 189,
+                        "blue": 136
+                    },
+                    "score": 0.02787961,
+                    "pixelFraction": 0.0053439564
+                },
+                {
+                    "color": {
+                        "red": 128,
+                        "green": 126,
+                        "blue": 99
+                    },
+                    "score": 0.018735318,
+                    "pixelFraction": 0.058977846
+                },
+                {
+                    "color": {
+                        "red": 225,
+                        "green": 230,
+                        "blue": 216
+                    },
+                    "score": 0.009062461,
+                    "pixelFraction": 0.020404197
+                },
+                {
+                    "color": {
+                        "red": 86,
+                        "green": 85,
+                        "blue": 61
+                    },
+                    "score": 0.006199427,
+                    "pixelFraction": 0.032646716
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        {},
+                        {
+                            "x": 266
+                        },
+                        {
+                            "x": 266,
+                            "y": 399
+                        },
+                        {
+                            "y": 399
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    }
+}

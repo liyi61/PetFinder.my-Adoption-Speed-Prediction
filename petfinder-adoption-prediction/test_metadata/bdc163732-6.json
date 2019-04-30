@@ -1,0 +1,209 @@
+{
+    "labelAnnotations": [
+        {
+            "mid": "/m/01yrx",
+            "description": "cat",
+            "score": 0.9912254,
+            "topicality": 0.9912254
+        },
+        {
+            "mid": "/m/0b75wg4",
+            "description": "photo caption",
+            "score": 0.92588973,
+            "topicality": 0.92588973
+        },
+        {
+            "mid": "/m/07k6w8",
+            "description": "small to medium sized cats",
+            "score": 0.92057186,
+            "topicality": 0.92057186
+        },
+        {
+            "mid": "/m/035qhg",
+            "description": "fauna",
+            "score": 0.9196763,
+            "topicality": 0.9196763
+        },
+        {
+            "mid": "/m/0307l",
+            "description": "cat like mammal",
+            "score": 0.90189785,
+            "topicality": 0.90189785
+        },
+        {
+            "mid": "/m/01l7qd",
+            "description": "whiskers",
+            "score": 0.83715415,
+            "topicality": 0.83715415
+        },
+        {
+            "mid": "/m/012c9l",
+            "description": "domestic short haired cat",
+            "score": 0.71920544,
+            "topicality": 0.71920544
+        },
+        {
+            "mid": "/m/07451s",
+            "description": "american wirehair",
+            "score": 0.62177813,
+            "topicality": 0.62177813
+        },
+        {
+            "mid": "/m/0hjzp",
+            "description": "kitten",
+            "score": 0.6159995,
+            "topicality": 0.6159995
+        },
+        {
+            "mid": "/m/03c_ndy",
+            "description": "aegean cat",
+            "score": 0.61080146,
+            "topicality": 0.61080146
+        }
+    ],
+    "textAnnotations": [
+        {
+            "locale": "en",
+            "description": "Pls CALL / SMS: Ms Kusmawati XXX-XXX XXXX\name: KittenNo2\n",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 20,
+                        "y": 31
+                    },
+                    {
+                        "x": 262,
+                        "y": 31
+                    },
+                    {
+                        "x": 262,
+                        "y": 375
+                    },
+                    {
+                        "x": 20,
+                        "y": 375
+                    }
+                ]
+            }
+        }
+    ],
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 78,
+                        "green": 43,
+                        "blue": 46
+                    },
+                    "score": 0.200244,
+                    "pixelFraction": 0.08258842
+                },
+                {
+                    "color": {
+                        "red": 202,
+                        "green": 227,
+                        "blue": 248
+                    },
+                    "score": 0.066184536,
+                    "pixelFraction": 0.025262339
+                },
+                {
+                    "color": {
+                        "red": 25,
+                        "green": 23,
+                        "blue": 27
+                    },
+                    "score": 0.029210584,
+                    "pixelFraction": 0.021084337
+                },
+                {
+                    "color": {
+                        "red": 107,
+                        "green": 71,
+                        "blue": 73
+                    },
+                    "score": 0.17340103,
+                    "pixelFraction": 0.19432569
+                },
+                {
+                    "color": {
+                        "red": 80,
+                        "green": 37,
+                        "blue": 35
+                    },
+                    "score": 0.123301126,
+                    "pixelFraction": 0.03585309
+                },
+                {
+                    "color": {
+                        "red": 111,
+                        "green": 67,
+                        "blue": 64
+                    },
+                    "score": 0.06693498,
+                    "pixelFraction": 0.04741547
+                },
+                {
+                    "color": {
+                        "red": 179,
+                        "green": 201,
+                        "blue": 223
+                    },
+                    "score": 0.06467085,
+                    "pixelFraction": 0.09172173
+                },
+                {
+                    "color": {
+                        "red": 145,
+                        "green": 105,
+                        "blue": 108
+                    },
+                    "score": 0.059716,
+                    "pixelFraction": 0.07811893
+                },
+                {
+                    "color": {
+                        "red": 49,
+                        "green": 23,
+                        "blue": 28
+                    },
+                    "score": 0.02370001,
+                    "pixelFraction": 0.025165176
+                },
+                {
+                    "color": {
+                        "red": 140,
+                        "green": 158,
+                        "blue": 178
+                    },
+                    "score": 0.02247939,
+                    "pixelFraction": 0.07102604
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        {},
+                        {
+                            "x": 266
+                        },
+                        {
+                            "x": 266,
+                            "y": 399
+                        },
+                        {
+                            "y": 399
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    }
+}
