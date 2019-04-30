@@ -30,6 +30,8 @@ In order for our models to have better performances, I decided to combine featur
 
 ## XGBoost
 
+XGBoost does not support categorical features, categorical features had to be loaded as array and then one-hot encoding was performed. Early stopping was used to find the optimal number of boosting rounds.  
+
 ```python
 model = xgb.train(dtrain=train_data, num_boost_round=20000, evals=watchlist, early_stopping_rounds=200,
                               verbose_eval=500, params=params)
@@ -43,6 +45,8 @@ xgb_params = {'eta': 0.01, 'max_depth': 9, 'subsample': 0.9, 'colsample_bytree':
 ![XG2](/img/XG2.png)
 
 ## LightGBM
+
+Similar procedure was done for LightGBM except for one-hot encoding wasn’t needed. LightGBM can use categorical features as input directly. 
 
 ```python
 model = lgb.train(params,
