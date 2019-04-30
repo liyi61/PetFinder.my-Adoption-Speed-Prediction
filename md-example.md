@@ -25,7 +25,7 @@ for col1 in cat_cols:
 cat_cols = cat_cols + more_cols
 ```
 
-In order for our models to have better performances, I decided to combine features in cat_cols which contains categorical features. Then I appended the combined features to the original list to obtain more features. Excessive number of features can cause model overfitting, however; in the original data, there were only 20-ish features so that adding more features won’t cause any trouble in this case. 
+In order for our models to have better performances, I decided to combine features in cat_cols which contains categorical features. Then I appended the combined features to the original list to obtain more features. 
 
 
 ## XGBoost
