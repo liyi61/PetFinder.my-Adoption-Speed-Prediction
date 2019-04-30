@@ -32,7 +32,6 @@ navbar-links:
   EDA & Feature Engineering:
     - Data Overview: "getstarted"
     - EDA & Feature Engineering: "featured-users"
-    - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
   Modeling:
     - XGboost, LightGBM, LogisticRegression : "md-example"
     - Back Propagation Neural Network: "BP"
