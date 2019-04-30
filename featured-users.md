@@ -57,10 +57,9 @@ Young pets were adopted fast and the peek is at two-month old, and they had a lo
 
 ## The Impact of Breeds
 
-
-Rate of pure breed pets in train data: __71.7802%__.    
-Rate of pure breed pets in test data: __77.9635%__.    
-The breed information looks a bit messy and confusing. These numbers exist under the assumption that pets without "breed2" are pure breed. That is incorrect. Let's take a look at the top 15 combination of "breed1" and "breed2":  
+Rate of pure breed pets in train data: __71.7802%__.  
+Rate of pure breed pets in test data: __77.9635%__.   
+The breed information looks a bit messy and confusing. Above assumption exist under the assumption that pets without "breed2" are pure breed. That is incorrect. Let's take a look at the top 15 combination of "breed1" and "breed2":  
 
 
 | Breed Name | Count |
