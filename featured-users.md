@@ -49,7 +49,6 @@ Most pets in the training set are very young (0 - 12 months old).
 ## Adoption Speed Trend by Age
 
 Young pets were adopted fast and the peek is at two-month old, and they had a low chance to not get adopted within 100 days. However, older pets didn’t have the worst chances to get adopted. This might be the case that people feel sympathy for those older pets.  
-
 <div>
     <a href="https://plot.ly/~liyi0907/5/?share_key=Gu3FmSC7r4vfZnfX5ui92v" target="_blank" title="Plot 5" style="display: block; text-align: center;"><img src="https://plot.ly/~liyi0907/5.png?share_key=Gu3FmSC7r4vfZnfX5ui92v" alt="Plot 5" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="liyi0907:5" sharekey-plotly="Gu3FmSC7r4vfZnfX5ui92v" src="https://plot.ly/embed.js" async></script>
